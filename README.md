@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitadutta2000
+- 👋 Hi, I’m Ankita Dutta
 - 👀 I’m interested in Java
 - 🌱 I’m currently pursuing BCA and looking for a job in IT Sector
 - 📫 How to reach me? Mail me @duttaankita112233@gmail.com 
