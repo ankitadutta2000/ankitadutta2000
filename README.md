@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Ankita Dutta
+- 🏢 I'm a Scholar Trainee at Wipro. 
 - 👀 I’m interested in Java
 - 🌱 I’m currently pursuing BCA and looking for a job in IT Sector
 - 📫 How to reach me? Mail me @duttaankita112233@gmail.com 
-- Connect me on LinkedIn @ankita2000
+- 👥 Connect me on LinkedIn @ankita2000
 
 <!---
 ankitadutta2000/ankitadutta2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
